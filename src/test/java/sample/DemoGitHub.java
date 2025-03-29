@@ -8,5 +8,6 @@ public class DemoGitHub {
 		System.out.println("Hello vaish");
 		System.out.println("Hyyyy buddy");
 		System.out.println("Hi papa");
+		System.out.println("This is DemoGitHub method");
 	}
 }
